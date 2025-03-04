@@ -20,11 +20,11 @@ This repository is a compilation of Python projects created for learning and dem
 1. **Project 1: Calculator**
     - A simple calculator that performs basic arithmetic operations.
 
-2. **Project 2: Web Scraper**
+2. **Project 2: Email Sender**
     - A web scraper that extracts data from websites using BeautifulSoup and requests.
 
-3. **Project 3: To-Do List**
-    - A command-line to-do list application to manage tasks.
+3. **Project 3: Word Replace**
+    - A command-line word replacer to replace a certain word in a sentence or story.
 
 4. **Project 4: Weather App**
     - A weather application that fetches and displays weather data using an API.
